@@ -37,8 +37,8 @@ export default function SplashScreen() {
             transition={{ delay: 0.3, duration: 0.5 }}
             className="mt-8 text-center"
           >
-            <h1 className="text-3xl font-black tracking-tighter">ScholarVerse</h1>
-            <p className="text-slate-400 font-medium mt-2">Premium Learning Experience</p>
+            <h1 className="text-3xl font-black tracking-tighter">unacademy</h1>
+            <p className="text-slate-400 font-medium mt-2">BY - VIPSTUDY</p>
           </motion.div>
           
           <div className="absolute bottom-12 w-48 h-1 bg-white/5 rounded-full overflow-hidden">
