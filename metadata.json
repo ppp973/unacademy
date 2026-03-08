@@ -1,0 +1,8 @@
+{
+  "name": "Remix: ScholarVerse Premium",
+  "description": "Premium study platform for NEET, JEE, and UPSC preparation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
